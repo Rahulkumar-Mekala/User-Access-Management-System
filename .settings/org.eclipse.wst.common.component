@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="User Access Management System Project">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Employee"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Adminpage"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Manager"/>
+        <property name="context-root" value="User_Access_Management_System_Project"/>
+        <property name="java-output-path" value="/User Access Management System Project/build/classes"/>
+    </wb-module>
+</project-modules>
